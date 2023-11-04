@@ -5,7 +5,7 @@ Something that makes misconfigured H2 servers cry
 [![RapidReset](https://img.shields.io/badge/CVE--2023--44487-red)](https://nvd.nist.gov/vuln/detail/CVE-2023-44487)
 
 ---
-##### Made for ducationnal purposes
+##### Made for educationnal purposes
 ---
 ### Usage
 use `-h` for the commands, it's pretty straightforward
